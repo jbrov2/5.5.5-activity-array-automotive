@@ -7,7 +7,7 @@ class Factory{
 
     //create Vehicle
     createVehicle(vehicle){
-        this.vehicle.push(vehicle)
+        this.vehicles.push(vehicle)
     }
     //paints the matching vehicle the specified color
     paintVehicle(vin, paintColor){
