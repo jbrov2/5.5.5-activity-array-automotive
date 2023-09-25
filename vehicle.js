@@ -5,7 +5,7 @@ class Vehicle{
         this.year = year
         this.price = price
         this.vin = vin
-        this.color = paint()
+        this.color = ''
     }
 
     //paint method
